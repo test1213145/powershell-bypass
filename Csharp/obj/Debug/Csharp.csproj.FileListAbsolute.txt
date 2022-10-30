@@ -1,0 +1,10 @@
+C:\Users\75468\source\repos\Csharp\Csharp\obj\Debug\Csharp.csproj.AssemblyReference.cache
+C:\Users\75468\source\repos\Csharp\Csharp\obj\Debug\Csharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\75468\source\repos\Csharp\Csharp\obj\Debug\Csharp.csproj.CoreCompileInputs.cache
+C:\Users\75468\source\repos\Csharp\Csharp\bin\Debug\Csharp.exe.config
+C:\Users\75468\source\repos\Csharp\Csharp\bin\Debug\Csharp.exe
+C:\Users\75468\source\repos\Csharp\Csharp\bin\Debug\Csharp.pdb
+C:\Users\75468\source\repos\Csharp\Csharp\obj\Debug\Csharp.exe
+C:\Users\75468\source\repos\Csharp\Csharp\obj\Debug\Csharp.pdb
+C:\Users\75468\source\repos\Csharp\Csharp\bin\Debug\System.Management.Automation.dll
+C:\Users\75468\source\repos\Csharp\Csharp\obj\Debug\Csharp.csproj.CopyComplete
